@@ -1,0 +1,2 @@
+# GraphRAG
+College Rules Assistant
